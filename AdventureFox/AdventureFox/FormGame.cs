@@ -10,12 +10,15 @@ using System.Windows.Forms;
 
 namespace AdventureFox
 {
-    public partial class Form1 : Form
+    public partial class FormGame : Form
     {
-        public Form1()
+        public FormGame()
         {
             InitializeComponent();
         }
+        // End of Initialization
 
     }
+    // End of Form Game partial class
 }
+// End of namespace
