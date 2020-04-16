@@ -1,0 +1,13 @@
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\bin\Debug\netcoreapp3.1\AdventureFox.exe
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\bin\Debug\netcoreapp3.1\AdventureFox.deps.json
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\bin\Debug\netcoreapp3.1\AdventureFox.runtimeconfig.json
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\bin\Debug\netcoreapp3.1\AdventureFox.runtimeconfig.dev.json
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\bin\Debug\netcoreapp3.1\AdventureFox.dll
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\bin\Debug\netcoreapp3.1\AdventureFox.pdb
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\obj\Debug\netcoreapp3.1\AdventureFox.csprojAssemblyReference.cache
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\obj\Debug\netcoreapp3.1\AdventureFox.csproj.CoreCompileInputs.cache
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\obj\Debug\netcoreapp3.1\AdventureFox.AssemblyInfoInputs.cache
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\obj\Debug\netcoreapp3.1\AdventureFox.AssemblyInfo.cs
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\obj\Debug\netcoreapp3.1\AdventureFox.dll
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\obj\Debug\netcoreapp3.1\AdventureFox.pdb
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\AdventureFox\AdventureFox\obj\Debug\netcoreapp3.1\AdventureFox.genruntimeconfig.cache

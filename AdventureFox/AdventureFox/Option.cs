@@ -12,8 +12,6 @@ namespace AdventureFox
         #region Properties
         private string text;
         // What the button says on its face.
-        private string subtext;
-        // What the button says on the mouseover text. (Hopefully.)
         private int index;
         /* The "destination" that the option corresponds to in its 
         containing classes. More specifically, it refers to the 
@@ -22,7 +20,6 @@ namespace AdventureFox
         */
 
         public string Text { get => text; set => text = value; }
-        public string Subtext { get => subtext; set => subtext = value; }
         public int Index { get => index; set => index = value; }
 
         #endregion
@@ -30,10 +27,9 @@ namespace AdventureFox
 
         #region Constructors
 
-        public Option(string text, string subtext, int index)
+        public Option(string text, int index)
         {
             this.text = text;
-            this.subtext = subtext;
             this.index = index;
         }
         // End of Full Constructor
@@ -41,7 +37,6 @@ namespace AdventureFox
         public Option()
         {
             this.text = "Option";
-            this.subtext = "This is a default Option. Not sure what's going on here.";
             this.index = 0;
         }
         // End of Full Constructor

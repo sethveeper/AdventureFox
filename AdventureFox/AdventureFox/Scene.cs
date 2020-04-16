@@ -36,6 +36,13 @@ namespace AdventureFox
         }
         // End of Full Constructor
 
+        public Scene(string text)
+        {
+            this.text = text;
+            this.options = new List<Option>();
+        }
+        // End of Partial Constructor
+
         public Scene()
         {
             this.text = "There's not really anything to see here...";
